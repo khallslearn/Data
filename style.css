@@ -1,0 +1,34 @@
+h2{
+  padding-left: 190px;
+}
+body{
+  background-image: url(https://htc.appartdev.nl/storage/1043/siemens-healthineers.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+#increment-btn{
+  background-color: red;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#save-btn{
+  background-color: green;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
